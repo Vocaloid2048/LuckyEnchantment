@@ -1,0 +1,4 @@
+name: LuckyEnchantment
+version: '1.0.0'
+main: com.voc2048.LuckyEnchantment
+api-version: '1.21'
